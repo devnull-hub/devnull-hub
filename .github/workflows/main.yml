@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: gr2m/cowsay-action@v1.x
         with:
-          text: "I architect, implement, administer and troubleshoot services, servers and infrastructure devices local and cloud-based"
+          text: "I architect, implement, administer and troubleshoot services, servers and infrastructure devices local and cloud-based."

@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on github workflows blog updates
 
+
+[![vNull's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnull-hub)](https://github-readme-stats.vercel.app/api?username=devnull-hub&show_icons=true&theme=transparent)
+
 <!--
 **devnull-hub/devnull-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

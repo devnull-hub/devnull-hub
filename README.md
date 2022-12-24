@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on github workflows blog updates
 
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,ansible,jenkins,openshift,bash,regex,powershell,bsd,linux,git,github,githubactions,gitlab,go,html,cpp,flask,py,java,selenium,discord,linkedin,stackoverflow,nginx,grafana,raspberrypi,arduino,androidstudio,sketchup,atom,md,vim,vscode&perline=12)](https://skillicons.dev)
+
 ## GitHub Stats
 [![vNull's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnull-hub&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Readme Banner](https://github.com/devnull-hub/devnull-hub/blob/main/assets/github-header-image.png)
-### 🔭 I’m currently working on github workflows blog updates
+### 🔭 I’m currently working on appium simple app workflow
 
 ## My Skills
 
